@@ -1,3 +1,9 @@
+<style>
+  img{
+  border-radius: 10px;
+  }
+</style>
+<img src="https://github.com/Mswati03/Mswati03/blob/main/DSCF7302.jpg" width="128"/>
 <h1 align="center">Hi 👋, I'm Mswati Tshabalala</h1>
 <h3 align="center">A Passionate Software Developer from Maseru,Lesotho</h3>
 
