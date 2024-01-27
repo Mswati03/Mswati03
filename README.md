@@ -1,6 +1,6 @@
 
-<center><img align='center' src="https://github.com/Mswati03/Mswati03/blob/main/DSCF7302.jpg" width="128"/></center>
-<p>👋 Hey! I'm Mswati Tshabalala</p><br>
+<div align="center"><img align="center" src="https://github.com/Mswati03/Mswati03/blob/main/DSCF7302.jpg" width="128"/></div>
+<p align="center"> 👋 Hey! I'm Mswati Tshabalala</p><br>
 <p align="center"> A Passionate Software Developer from Maseru, Lesotho</p>
 <p> 💫 Goal:<br>
 Unlocking possibilities</p>
